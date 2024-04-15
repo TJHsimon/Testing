@@ -1,7 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import { StyleSheet, Text, View, Button } from 'react-native';
 import { TouchableOpacity } from 'react-native-gesture-handler';
-import { Permissions } from 'expo-permissions';
 import First from '../burns/first';
 import Second from '../burns/second';
 import Third from '../burns/third';

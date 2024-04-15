@@ -4,7 +4,6 @@ import Home from '../components/home';
 import CameraScreen from '../components/camera';
 import Results from '../components/result';
 
-
 const Stack = createStackNavigator();
 
 function MyStack(){
